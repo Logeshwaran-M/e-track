@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Main Homepage -->
+  <url>
+    <loc>https://www.etracktitle.com/</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Nationwide Page 1 -->
+  <url>
+    <loc>https://www.etracktitle.com/professional-title-services-united-states</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Florida State Page -->
+  <url>
+    <loc>https://www.etracktitle.com/best-title-search-services-florida-usa</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Nationwide Page 2 -->
+  <url>
+    <loc>https://www.etracktitle.com/title-search-company-in-usa</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Virginia State Page 1 (Fast Reports) -->
+  <url>
+    <loc>https://www.etracktitle.com/title-search-services-in-virginia</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Maryland State Page -->
+  <url>
+    <loc>https://www.etracktitle.com/title-search-company-in-maryland-usa</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- District of Columbia Page -->
+  <url>
+    <loc>https://www.etracktitle.com/title-search-company-district-of-columbia-usa</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Georgia State Page -->
+  <url>
+    <loc>https://www.etracktitle.com/title-search-services-georgia-usa</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Virginia State Page 2 (eTrack Title) -->
+  <url>
+    <loc>https://www.etracktitle.com/title-search-services-virginia</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Roofing Order Form -->
+  <url>
+    <loc>https://www.etracktitle.com/roofing-order-page</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Thank You Conversion Page -->
+  <url>
+    <loc>https://www.etracktitle.com/thank-you</loc>
+    <priority>0.5</priority>
+  </url>
+
+</urlset>
