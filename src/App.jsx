@@ -24,6 +24,7 @@ import MarylandTitleServices from "./components/MarylandTitleServices";
 import DcTitleServices from "./components/DcTitleServices";
 import GeorgiaTitleServices from "./components/GeorgiaTitleServices";
 import VirginiaStateTitleServices from "./components/VirginiaStateTitleServices";
+import FloridaRoofSketchServices from "./components/FloridaRoofSketchServices";
 
 // --- Redux & Animations ---
 import contactReducer from "./redux/contactSlice";
@@ -72,6 +73,7 @@ export default function App() {
           <Route path="/title-search-company-district-of-columbia-usa" element={<DcTitleServices />} />
           <Route path="/title-search-services-georgia-usa" element={<GeorgiaTitleServices />} />
           <Route path="/title-search-services-virginia" element={<VirginiaStateTitleServices />} />
+          <Route path="/roof-sketch-services-in-florida" element={<FloridaRoofSketchServices />} />
         </Routes>
 
         <Footer />
