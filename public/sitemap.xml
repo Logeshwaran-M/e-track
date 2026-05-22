@@ -4,73 +4,81 @@
   <!-- Main Homepage -->
   <url>
     <loc>https://www.etracktitle.com/</loc>
+    <lastmod>2026-05-22</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
 
-  <!-- Nationwide Page 1 -->
+  <!-- Nationwide Title Services -->
   <url>
-    <loc>https://www.etracktitle.com/professional-title-services-united-states</loc>
+    <loc>https://www.etracktitle.com/title-services-usa</loc>
+    <lastmod>2026-05-22</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
 
-  <!-- Florida State Page -->
+  <!-- Florida Title Search Services -->
   <url>
     <loc>https://www.etracktitle.com/best-title-search-services-florida-usa</loc>
+    <lastmod>2026-05-22</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
 
-  <!-- Nationwide Page 2 -->
+  <!-- USA Title Search Company -->
   <url>
     <loc>https://www.etracktitle.com/title-search-company-in-usa</loc>
+    <lastmod>2026-05-22</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
 
-  <!-- Virginia State Page 1 (Fast Reports) -->
-  <url>
-    <loc>https://www.etracktitle.com/title-search-services-in-virginia</loc>
-    <priority>0.9</priority>
-  </url>
-
-  <!-- Maryland State Page -->
-  <url>
-    <loc>https://www.etracktitle.com/title-search-company-in-maryland-usa</loc>
-    <priority>0.9</priority>
-  </url>
-
-  <!-- District of Columbia Page -->
-  <url>
-    <loc>https://www.etracktitle.com/title-search-company-district-of-columbia-usa</loc>
-    <priority>0.9</priority>
-  </url>
-
-  <!-- Georgia State Page -->
-  <url>
-    <loc>https://www.etracktitle.com/title-search-services-georgia-usa</loc>
-    <priority>0.9</priority>
-  </url>
-
-  <!-- Virginia State Page 2 (eTrack Title) -->
+  <!-- Virginia Title Search Services -->
   <url>
     <loc>https://www.etracktitle.com/title-search-services-virginia</loc>
+    <lastmod>2026-05-22</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
 
-  <!-- Roof Sketch Services in Florida -->
+  <!-- Maryland Title Search Company -->
+  <url>
+    <loc>https://www.etracktitle.com/title-search-company-in-maryland-usa</loc>
+    <lastmod>2026-05-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- District of Columbia Title Search -->
+  <url>
+    <loc>https://www.etracktitle.com/title-search-company-district-of-columbia-usa</loc>
+    <lastmod>2026-05-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Georgia Title Search Services -->
+  <url>
+    <loc>https://www.etracktitle.com/title-search-services-georgia-usa</loc>
+    <lastmod>2026-05-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Roof Sketch Services -->
   <url>
     <loc>https://www.etracktitle.com/roof-sketch-services-in-florida</loc>
-    <priority>0.9</priority>
-  </url>
-
-  <!-- Roofing Order Form -->
-  <url>
-    <loc>https://www.etracktitle.com/roofing-order-page</loc>
+    <lastmod>2026-05-22</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
-  <!-- Thank You Conversion Page -->
+  <!-- Roofing Order Page -->
   <url>
-    <loc>https://www.etracktitle.com/thank-you</loc>
-    <priority>0.5</priority>
+    <loc>https://www.etracktitle.com/roofing-order-page</loc>
+    <lastmod>2026-05-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
 
 </urlset>
