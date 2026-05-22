@@ -66,6 +66,7 @@ export default function App() {
           <Route path="/thank-you" element={<ThankYou />} />
           <Route path="/roofing-order-page" element={<RoofingOrderForm />} />
           <Route path="/title-services-usa" element={<TitleSearchCompanyInUsa />} />
+          <Route path="/professional-title-services-united-states" element={<TitleSearchCompanyInUsa />} />
           <Route path="/best-title-search-services-florida-usa" element={<FloridaTitleServices />} />
           <Route path="/title-search-company-in-usa" element={<BestTitleSearchCompanyInUsa />} />
           <Route path="/title-search-services-in-virginia" element={<VirginiaTitleServices />} />
